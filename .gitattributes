@@ -1,0 +1,2 @@
+rootfs.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+rootfs_nogpu.tar.bz2 filter=lfs diff=lfs merge=lfs -text
